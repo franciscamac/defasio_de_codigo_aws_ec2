@@ -45,7 +45,7 @@ Para aproveitar melhor o EC2, a AWS também oferece recursos adicionais, como:
 ---
 
 # Desafio de Projeto
-![Desafio de Projeto](images/Desafio_de_projeto_ec2.drawio)
+![Desafio de Projeto](images/Desafio_de_projeto_ec2.png)
 
 Este projeto foi inspirado em um [estudo de caso publicado no blog da AWS](https://aws.amazon.com/pt/blogs/aws-brasil/alta-performance-e-baixo-custo-numa-solucao-de-saude-com-amazon-cloudfront/).  
 O objetivo foi criar uma arquitetura na nuvem que fosse ao mesmo tempo **escalável, resiliente, segura e de baixo custo**, seguindo boas práticas recomendadas pela própria AWS.  
