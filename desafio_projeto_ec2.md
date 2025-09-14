@@ -11,7 +11,7 @@ Isso torna possível operar aplicações e bancos de dados de produção com mui
 Na prática, cada AZ possui energia, rede e conectividade redundantes, e juntas formam a base da infraestrutura de resiliência da AWS.  
 
 📖 Documentação: https://aws.amazon.com/pt/about-aws/global-infrastructure/regions_az/  
-![Region](imagem/region.png)
+![Region](images/region.png)
 
 ## Serviços
 A AWS disponibiliza uma grande variedade de serviços globais na nuvem.  
@@ -40,12 +40,12 @@ Para aproveitar melhor o EC2, a AWS também oferece recursos adicionais, como:
 - **AWS Launch Wizard**, que auxilia no provisionamento de recursos sem precisar configurá-los manualmente.  
 
 📖 Documentação: https://aws.amazon.com/pt/ec2/?refid=60b9f03e-f5fe-4f07-846f-f25022f64c72  
-![EC2](imagem/ec2.png)
+![EC2](images/ec2.png)
 
 ---
 
 # Desafio de Projeto
-![Desafio de Projeto](imagem/Desafio_de_projeto_ec2.drawio)
+![Desafio de Projeto](images/Desafio_de_projeto_ec2.drawio)
 
 Este projeto foi inspirado em um [estudo de caso publicado no blog da AWS](https://aws.amazon.com/pt/blogs/aws-brasil/alta-performance-e-baixo-custo-numa-solucao-de-saude-com-amazon-cloudfront/).  
 O objetivo foi criar uma arquitetura na nuvem que fosse ao mesmo tempo **escalável, resiliente, segura e de baixo custo**, seguindo boas práticas recomendadas pela própria AWS.  
